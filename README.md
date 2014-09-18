@@ -1,0 +1,4 @@
+bashTimer
+=========
+
+created for myself
